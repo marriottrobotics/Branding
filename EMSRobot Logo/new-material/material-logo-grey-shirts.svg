@@ -14,7 +14,7 @@
    viewBox="0 0 855.9726 855.97265"
    id="svg5066"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="material-logo-grey-shirts.svg"
    inkscape:export-filename="/home/sam/projects/branding/EMSRobot Logo/new-material/material-logo-grey-shirts.svg.png"
    inkscape:export-xdpi="1000"
@@ -23,16 +23,16 @@
      id="defs5068" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#00b05d"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="34.818217"
-     inkscape:cy="417.12203"
+     inkscape:cx="410.35519"
+     inkscape:cy="483.87644"
      inkscape:document-units="px"
-     inkscape:current-layer="g5669"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-left="50"
      fit-margin-right="50"
@@ -41,9 +41,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="1366"
-     inkscape:window-y="0"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-perpendicular="false">
     <sodipodi:guide
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
